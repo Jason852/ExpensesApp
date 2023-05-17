@@ -1,7 +1,7 @@
 import ExpensesOutput from "../components/ExpensesOutput/ExpensesOutput";
 
 function AllExpensesScreen() {
-  return <ExpensesOutput expensePeriod="Total" />;
+  return <ExpensesOutput expensesPeriod="Total" />;
 }
 
 export default AllExpensesScreen;
